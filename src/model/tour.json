@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "",
+    "description": "",
+    "views": "",
+    "images" : [
+        "", "", ""
+    ],
+    "trips": "",
+    "roads": "",
+    "tariflar": [
+        {
+            "tarifName": "arzon",
+            "tarifPrice": "100$",
+            "tarifDesc": ""
+        },{
+          "tarifName": "o'rtacha",
+          "tarifPrice": "200$",
+          "tarifDesc": ""
+        },{
+          "tarifName": "qimmat",
+          "tarifPrice": "300$",
+          "tarifDesc": ""
+        }
+    ]
+  }  
+]
